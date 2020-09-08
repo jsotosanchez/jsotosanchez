@@ -6,6 +6,7 @@
 </p>
 [![Linkedin: josemsoto](https://img.shields.io/badge/-linkedIn-blue)](https://www.linkedin.com/in/jmiguelsoto/)
 [![CV: CV](https://img.shields.io/badge/-CV-green)](https://docs.google.com/document/d/1VU64xDwr-yvZbMgVsEIvqKiriaULRNmY_J3oTQYOGfI/edit?usp=sharing)
+  
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
