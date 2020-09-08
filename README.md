@@ -15,10 +15,11 @@ const jose = {
   code: [Javascript, Typescript, HTML, CSS, Java, Python],
   tools: [React, Redux, Node, Jest, Docker, Angular, Spring, AWS, Amplify],
   architecture: ["microservices", "event-driven", AWS],
+  Databases: [SQL, Mongo, DynamoDB, Redis]
   lookingFor: [Cloud Computing, Microservices, Remote-Work],
   others: [Future ADCC World Champion]
 }
 ```
-<em>I love meeting people,<b> especially if you have a job offer ;)</b></em><br>
+<em>I love meeting people,<b> especially if you have good a job offer ;)</b></em><br>
 <img src="https://media.giphy.com/media/Z9oFSDmFcc16JXkSeS/giphy.gif" width="150">
 ---
