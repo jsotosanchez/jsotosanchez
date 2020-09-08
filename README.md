@@ -13,7 +13,7 @@
 ```javascript
 const jose = {
   coding: [Javascript, Typescript, Java, Python, HTML, CSS],
-  frameworksAndLibraries: [React, Redux, Jest, Angular, Spring, Node, Amplify],
+  frameworksAndLibraries: [React, React Native, Redux, Jest, Angular, Spring, Node, Amplify],
   tools: [Docker, AWS, Heroku],
   databases: [SQL (Server, Postgres, Mysql), MongoDB, DynamoDB, Redis],
   methodologies: [Agile, Scrum],
