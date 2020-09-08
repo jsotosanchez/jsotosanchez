@@ -13,13 +13,14 @@
 ```javascript
 const jose = {
   coding: [Javascript, Typescript, Java, Python, HTML, CSS],
-  frameworksAndLibraries: [React, Redux, Jest, Angular, Spring, Node, Amplify]
+  frameworksAndLibraries: [React, Redux, Jest, Angular, Spring, Node, Amplify],
   tools: [Docker, AWS, Heroku],
-  databases: [SQL (Server, Postgres, Mysql), MongoDB, DynamoDB, Redis]
-  lookingFor: [Cloud-Computing, microservices, Remote-Work],
-  certifications: [Cambridge Assessment English (C1)]
+  databases: [SQL (Server, Postgres, Mysql), MongoDB, DynamoDB, Redis],
+  methodologies: [Agile, Scrum],
+  lookingFor: [Cloud-Computing, Microservices, Remote-Work],
+  certifications: [Cambridge Assessment English (C1)],
   others: [Future ADCC World Champion]
 }
 ```
-<p>I love meeting people, especially if you have good a job offer ;)<br></p>
+<p>I love meeting people, especially if you offer a good job or a good laugh ;)<br></p>
 <img src="https://media.giphy.com/media/Z9oFSDmFcc16JXkSeS/giphy.gif" width="150">
