@@ -5,7 +5,7 @@
 </em>--->
 </p>
 
-[![Linkedin: josemsoto](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmiguelsoto/)](https://www.linkedin.com/in/jmiguelsoto/)
+[![Linkedin: josemsoto](https://img.shields.io/badge/-linkedIn-blue)](https://www.linkedin.com/in/jmiguelsoto/)
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
@@ -19,7 +19,6 @@ const jose = {
   others: [Future ADCC World Champion]
 }
 ```
-
-<img src="https://media.giphy.com/media/Z9oFSDmFcc16JXkSeS/giphy.gif" width="200"> <em>I love meeting people,<b> especially if you have a job offer ;)</b></em>
-
+<em>I love meeting people,<b> especially if you have a job offer ;)</b></em><br>
+<img src="https://media.giphy.com/media/Z9oFSDmFcc16JXkSeS/giphy.gif" width="150">
 ---
