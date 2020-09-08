@@ -1,7 +1,7 @@
-<h2> Hi, I'm Jose Soto! <img src="https://media.giphy.com/media/oDLDbBgf0dkis/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="https://www.uade.edu.ar/">Universidad Argentina de la Empresa</a> (4/5)
+<h2> Hi, I'm Jose Soto! <img src="https://media.giphy.com/media/oDLDbBgf0dkis/giphy.gif" width="100"></h2>
+<p><em>Software Engineer from <a href="https://www.uade.edu.ar/">Universidad Argentina de la Empresa</a> (4/5 years)
 <!---
-</br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</br>Software Engineer at <a href="https://xoolix.com">Xoolix</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em>--->
 </p>
 
@@ -12,11 +12,12 @@
 
 ```javascript
 const jose = {
-  code: [Javascript, Typescript, HTML, CSS, Java, Python],
-  tools: [React, Redux, Node, Jest, Docker, Angular, Spring, AWS, Amplify],
-  architecture: ["microservices", "event-driven", AWS],
-  Databases: [SQL, Mongo, DynamoDB, Redis]
-  lookingFor: [Cloud Computing, Microservices, Remote-Work],
+  coding: [Javascript, Typescript, Java, Python, HTML, CSS],
+  frameworksAndLibraries: [React, Redux, Jest, Angular, Spring, Node, Amplify]
+  tools: [Docker, AWS, Heroku],
+  databases: [SQL (Server, Postgres, Mysql), MongoDB, DynamoDB, Redis]
+  lookingFor: [Cloud-Computing, microservices, Remote-Work],
+  certifications: [Cambridge Assessment English (C1)]
   others: [Future ADCC World Champion]
 }
 ```
