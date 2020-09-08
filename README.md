@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" />
+</p>
