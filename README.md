@@ -22,4 +22,3 @@ const jose = {
 ```
 <p>I love meeting people, especially if you have good a job offer ;)<br></p>
 <img src="https://media.giphy.com/media/Z9oFSDmFcc16JXkSeS/giphy.gif" width="150">
----
