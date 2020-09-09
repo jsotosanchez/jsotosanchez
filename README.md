@@ -17,7 +17,7 @@ const jose = {
   tools: [Docker, AWS, Heroku],
   databases: [SQL (Server, Postgres, Mysql), MongoDB, DynamoDB, Redis],
   methodologies: [Agile, Scrum],
-  lookingFor: [Cloud-Computing, Microservices, Remote-Work],
+  lookingFor: [CloudComputing, Microservices, RemoteWork],
   certifications: [Cambridge Assessment English (C1)],
   others: [Future ADCC World Champion]
 }
