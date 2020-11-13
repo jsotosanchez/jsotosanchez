@@ -17,10 +17,10 @@ const jose = {
   tools: [Docker, AWS, Heroku],
   databases: [SQL (Server, Postgres, Mysql), MongoDB, DynamoDB, Redis],
   methodologies: [Agile, Scrum],
-  lookingFor: [CloudComputing, Microservices, RemoteWork],
+  lookingFor: [CloudComputing, RemoteWork],
   certifications: [Cambridge Assessment English (C1)],
   others: [Future ADCC World Champion]
 }
 ```
-<p>I love meeting people, especially if you offer a good job or a good laugh :wink:<br></p>
+<p>I love meeting people, especially if you offer a good job or a good laugh<br></p>
 <img src="https://media.giphy.com/media/Z9oFSDmFcc16JXkSeS/giphy.gif" width="150">
