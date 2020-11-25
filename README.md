@@ -13,13 +13,13 @@
 ```javascript
 const jose = {
   coding: [Javascript, Typescript, Java, Python, HTML, CSS],
-  frameworksAndLibraries: [React, React Native, Redux, Jest, Angular, Spring, Node, Amplify],
-  tools: [Docker, AWS, Heroku],
-  databases: [SQL (Server, Postgres, Mysql), MongoDB, DynamoDB, Redis],
-  methodologies: [Agile, Scrum],
+  frameworksAndLibraries: [React, React Native, Redux, Jest, Angular, Spring, Node],
+  tools: [Docker, Kubernetes, Heroku],
+  databases: [SQL (Server, Postgres, Mysql), MongoDB, Redis],
+  methodologies: [Agile, Scrum, Kanban, TDD],
   lookingFor: [CloudComputing, RemoteWork],
   certifications: [Cambridge Assessment English (C1)],
-  others: [Future ADCC World Champion]
+  others: [Jiu-Jitsu, Lifting, Meeting different cultures]
 }
 ```
 <p>I love meeting people, especially if you offer a good job or a good laugh<br></p>
