@@ -21,5 +21,4 @@ const jose = {
   others: [Jiu-Jitsu, Lifting]
 }
 ```
-<p>I love meeting people, especially if you offer a good job or a good laugh<br></p>
 <img src="https://media.giphy.com/media/Z9oFSDmFcc16JXkSeS/giphy.gif" width="150">
