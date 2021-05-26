@@ -1,7 +1,7 @@
 <h2> Hi, I'm Jose Soto! <img src="https://media.giphy.com/media/oDLDbBgf0dkis/giphy.gif" width="100"></h2>
-<p><em>Software Engineer student from <a href="https://www.uade.edu.ar/">Universidad Argentina de la Empresa</a>. Expecting to graduate on December 2021
+</br>Software Engineer at <a href="https://www.highmetric.com/">Highmetric</a>
 
-</br>Software Engineer at <a href="https://www.highmetric.com/">Highmetric</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer student from <a href="https://www.uade.edu.ar/">Universidad Argentina de la Empresa</a>. Expecting to graduate on December 2021
 </em>
 </p>
 
