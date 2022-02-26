@@ -4,7 +4,7 @@ Software Engineer at Mercadolibre
 
 ## Education
 <p>MSc Software Engineering</p>
-<p>[https://www.uade.edu.ar/](https://www.uade.edu.ar/)</p>
+<p>Universidad Argentina de la Empresa</p>
 
 [![Linkedin: josemsoto](https://img.shields.io/badge/-linkedIn-blue)](https://www.linkedin.com/in/jmiguelsoto/)
 
