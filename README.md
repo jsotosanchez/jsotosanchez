@@ -1,9 +1,10 @@
 <h2> Hi, I'm Jose Soto! <img src="https://media.giphy.com/media/oDLDbBgf0dkis/giphy.gif" width="100"></h2>
 </br>
 Software Engineer at Mercadolibre
-<p><em>Software Engineer from Universidad Argentina de la Empresa. 
-</em>
-</p>
+
+## Education
+<p>MSc Software Engineer</p>
+<p>Universidad Argentina de la Empresa</p>
 
 [![Linkedin: josemsoto](https://img.shields.io/badge/-linkedIn-blue)](https://www.linkedin.com/in/jmiguelsoto/)
 
