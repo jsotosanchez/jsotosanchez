@@ -1,24 +1,11 @@
 <h2> Hi, I'm Jose Soto! <img src="https://media.giphy.com/media/oDLDbBgf0dkis/giphy.gif" width="100"></h2>
 </br>
-Software Engineer at Highmetric
-<p><em>Software Engineer student from Universidad Argentina de la Empresa. Expecting to graduate on December 2021
+Software Engineer at Mercadolibre
+<p><em>Software Engineer from Universidad Argentina de la Empresa. 
 </em>
 </p>
 
 [![Linkedin: josemsoto](https://img.shields.io/badge/-linkedIn-blue)](https://www.linkedin.com/in/jmiguelsoto/)
-[![CV: CV](https://img.shields.io/badge/-CV-green)](https://docs.google.com/document/d/1PSh56jXr6Ziz3jONta8YvNk9IR-qCahADXaNMQs-d_E/edit?usp=sharing)
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const jose = {
-  coding: [Javascript, Typescript, Java],
-  frameworksAndLibraries: [React, React Native, Redux, Jest, Node, Angular, Spring],
-  tools: [Docker, Kubernetes, Heroku],
-  databases: [SQL (Server, Postgres, Mysql), MongoDB, Redis],
-  methodologies: [Agile (Scrum, Kanban), TDD],
-  certifications: [Cambridge Assessment English (C1)],
-  others: [Jiu-Jitsu, Lifting]
-}
-```
+<!-- ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...   -->
 <img src="https://media.giphy.com/media/Z9oFSDmFcc16JXkSeS/giphy.gif" width="150">
