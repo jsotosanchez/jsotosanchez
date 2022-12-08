@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jose Soto! <img src="https://media.giphy.com/media/oDLDbBgf0dkis/giphy.gif" width="100"></h2>
 </br>
-Software Engineer with over 2 years of experiencie, currently working as BE developer at Mercadolibre.
+Software Engineer with over 3 years of experiencie, currently working as BE developer at Mercadolibre.
 
 ## Education
 <p>MSc Software Engineering</p>
