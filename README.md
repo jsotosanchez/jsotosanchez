@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jose Soto! <img src="https://media.giphy.com/media/oDLDbBgf0dkis/giphy.gif" width="100"></h2>
 </br>
-Software Engineer with over 7 years of experiencie, currently working as BE developer at Compass. [(compass github)](https://github.com/JoseAtCompass)
+Software Engineer with over 7 years of experiencie, currently working as BE developer at Compass (https://github.com/JoseAtCompass)
 
 ## Education
 <p>Software Engineering (5 years)</p>
