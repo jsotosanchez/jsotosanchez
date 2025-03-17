@@ -1,9 +1,9 @@
 <h2> Hi, I'm Jose Soto! <img src="https://media.giphy.com/media/oDLDbBgf0dkis/giphy.gif" width="100"></h2>
 </br>
-Software Engineer with over 3 years of experiencie, currently working as BE developer at Mercadolibre.
+Software Engineer with over 7 years of experiencie, currently working as BE developer at Compass. [(compass github)](https://github.com/JoseAtCompass)
 
 ## Education
-<p>MSc Software Engineering</p>
+<p>Software Engineering (5 years)</p>
 <p>Universidad Argentina de la Empresa</p>
 
 [![Linkedin: josemsoto](https://img.shields.io/badge/-linkedIn-blue)](https://www.linkedin.com/in/jmiguelsoto/)
